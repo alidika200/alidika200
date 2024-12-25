@@ -15,4 +15,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=alidika200&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<a href="https://app.daily.dev/magster"><img src="https://api.daily.dev/devcards/v2/2qC8deD9ILakaOEFHoLZV.png?type=default&r=d5f" width="356" alt="magster's Dev Card"/></a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
